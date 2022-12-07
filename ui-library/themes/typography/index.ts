@@ -1,1 +1,1 @@
-export { MuiTypography } from './typography';
+export { MuiTypography, typography } from './typography';

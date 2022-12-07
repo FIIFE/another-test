@@ -44,7 +44,7 @@ declare module '@mui/material/Typography' {
   }
 }
 
-export const typography: TypographyOptions = typographyVariants;
+export const typography: TypographyOptions = { ...typographyVariants };
 
 export const MuiTypography: {
   defaultProps?: ComponentsProps['MuiTypography'];
