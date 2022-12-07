@@ -1,0 +1,1 @@
+export { defaultVariantMapping } from './defaultVariantMapping';

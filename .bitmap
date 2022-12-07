@@ -27,5 +27,11 @@
         "mainFile": "index.ts",
         "rootDir": "bit/generators/mui"
     },
+    "themes/typography": {
+        "scope": "fifi.ui-library",
+        "version": "0.0.1",
+        "mainFile": "index.ts",
+        "rootDir": "ui-library/themes/typography"
+    },
     "$schema-version": "15.0.0"
 }

@@ -1,0 +1,22 @@
+{
+  "componentId": {
+    "name": "themes/typography",
+    "scope": "fifi.ui-library"
+  },
+  "propagate": false,
+  "extensions": {
+    "teambit.dependencies/dependency-resolver": {
+      "policy": {
+        "dependencies": {
+          "@fontsource/dm-serif-text": "4.5.7",
+          "@fontsource/lato": "4.5.8",
+          "@fontsource/sarabun": "4.5.8"
+        }
+      }
+    },
+    "fifi.bit/envs/mui-theme@0.0.1": {},
+    "teambit.envs/envs": {
+      "env": "fifi.bit/envs/mui-theme"
+    }
+  }
+}
