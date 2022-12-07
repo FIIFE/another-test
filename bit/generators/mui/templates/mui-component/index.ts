@@ -20,9 +20,9 @@ export const muiComponent: ComponentTemplate = {
     ];
   },
   config: {
-    'd21.bit/envs/mui': {},
+    'fifi.bit/envs/mui': {},
     'teambit.envs/envs': {
-      env: 'd21.bit/envs/mui',
+      env: 'fifi.bit/envs/mui',
     },
   },
 };

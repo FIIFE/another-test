@@ -16,9 +16,9 @@ export const muiTheme: ComponentTemplate = {
     ];
   },
   config: {
-    'd21.bit/envs/mui-theme': {},
+    'fifi.bit/envs/mui-theme': {},
     'teambit.envs/envs': {
-      env: 'd21.bit/envs/mui-theme',
+      env: 'fifi.bit/envs/mui-theme',
     },
   },
 };

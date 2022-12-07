@@ -23,7 +23,7 @@
     },
     "generators/mui": {
         "scope": "fifi.bit",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "bit/generators/mui"
     },
