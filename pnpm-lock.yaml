@@ -9,6 +9,7 @@ importers:
       '@babel/runtime': 7.12.18
       '@emotion/react': ^11.0.0
       '@emotion/styled': ^11.0.0
+      '@fifi/ui-library.themes.typography': ^0.0.2
       '@fontsource/dm-serif-text': 4.5.7
       '@fontsource/lato': 4.5.8
       '@fontsource/sarabun': 4.5.8
@@ -36,6 +37,7 @@ importers:
       '@babel/runtime': registry.npmjs.org/@babel/runtime/7.12.18
       '@emotion/react': registry.npmjs.org/@emotion/react/11.10.5_q5o373oqrklnndq2vhekyuzhxi
       '@emotion/styled': registry.npmjs.org/@emotion/styled/11.10.5_5fe5shuv5xwkc5kpkr6h4jqd6u
+      '@fifi/ui-library.themes.typography': link:ui-library/themes/typography
       '@fontsource/dm-serif-text': registry.npmjs.org/@fontsource/dm-serif-text/4.5.7
       '@fontsource/lato': registry.npmjs.org/@fontsource/lato/4.5.8
       '@fontsource/sarabun': registry.npmjs.org/@fontsource/sarabun/4.5.8
@@ -68,6 +70,9 @@ importers:
     specifiers: {}
 
   bit/generators/mui:
+    specifiers: {}
+
+  ui-library/themes/input-base:
     specifiers: {}
 
   ui-library/themes/typography:

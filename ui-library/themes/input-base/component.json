@@ -1,0 +1,20 @@
+{
+  "componentId": {
+    "name": "themes/input-base",
+    "scope": "fifi.ui-library"
+  },
+  "propagate": false,
+  "extensions": {
+    "teambit.dependencies/dependency-resolver": {
+      "policy": {
+        "peerDependencies": {
+          "@fifi/ui-library.themes.typography": "^0.0.2"
+        }
+      }
+    },
+    "fifi.bit/envs/mui-theme@0.0.1": {},
+    "teambit.envs/envs": {
+      "env": "fifi.bit/envs/mui-theme"
+    }
+  }
+}

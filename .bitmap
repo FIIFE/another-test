@@ -27,6 +27,12 @@
         "mainFile": "index.ts",
         "rootDir": "bit/generators/mui"
     },
+    "themes/input-base": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "ui-library/themes/input-base"
+    },
     "themes/typography": {
         "scope": "fifi.ui-library",
         "version": "0.0.2",
