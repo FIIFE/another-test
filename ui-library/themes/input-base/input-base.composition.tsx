@@ -1,4 +1,4 @@
-import '@fifi/ui-library.themes.typography/dist/styles.css';
+import '@fifi/ui-library.themes.typography/styles.css';
 import Box from '@mui/material/Box';
 import InputBase from '@mui/material/InputBase';
 import { ThemeProvider } from '@mui/material/styles';

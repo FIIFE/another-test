@@ -11,31 +11,31 @@
 {
     "envs/mui": {
         "scope": "fifi.bit",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "bit/envs/mui"
     },
     "envs/mui-theme": {
         "scope": "fifi.bit",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "bit/envs/mui-theme"
     },
     "generators/mui": {
         "scope": "fifi.bit",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "mainFile": "index.ts",
         "rootDir": "bit/generators/mui"
     },
     "themes/input-base": {
-        "scope": "",
-        "version": "",
+        "scope": "fifi.ui-library",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "ui-library/themes/input-base"
     },
     "themes/typography": {
         "scope": "fifi.ui-library",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "mainFile": "index.ts",
         "rootDir": "ui-library/themes/typography"
     },
